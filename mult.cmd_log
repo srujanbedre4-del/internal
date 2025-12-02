@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/hanson/multi/mult.xst" -ofn "C:/Users/admin/Desktop/hanson/multi/mult.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim mult.ngc mult_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/hanson/multi/mult.xst" -ofn "C:/Users/admin/Desktop/hanson/multi/mult.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim mult.ngc mult_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/hanson/multi/mult.xst" -ofn "C:/Users/admin/Desktop/hanson/multi/mult.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim mult.ngc mult_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/hanson/multi/mult.xst" -ofn "C:/Users/admin/Desktop/hanson/multi/mult.syr" 
